@@ -1,0 +1,10 @@
+{
+  "description": "Swipe, match, and chat with collectible periodic element characters in a playful chemistry dating simulator that makes learning chemistry fun.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
